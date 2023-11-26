@@ -36,4 +36,25 @@ python supermarket_billing.py
 ```
 Follow the on-screen prompts to perform billing, manage inventory, and view reports.
 
-## 
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to Swipe (Stripe Clone) and make it even better, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch:
+```bash
+git checkout -b feature/your-feature
+```
+3. Make your changes and commit them:
+```bash
+git commit -m "Add your commit message here"
+```
+4. Push to the branch:
+```bash
+git push origin feature/your-feature
+```
+5. Open a pull request.
+
+## License
+
+The Swipe (Stripe Clone) project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
