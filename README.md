@@ -20,11 +20,13 @@ This Python-based Supermarket Billing and Inventory Management System is designe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/supermarket-billing.git```
+   git clone https://github.com/your-username/supermarket-billing.git
+   ```
 2. Set up the MySQL database by importing the provided SQL script:
+   
   ```bash
   mysql -u username -p < supermarket_database.sql
-```
+  ```
 3. Edit the `main.py` file with your MySQL database connection details.
 
 ## Usage
